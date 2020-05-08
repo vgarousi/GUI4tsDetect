@@ -1,6 +1,6 @@
 # Introduction
 
-GUI4tsDetect is a Graphical User Interface (GUI) interface (application) to the test-smell detection tool tsDetect (https://testsmells.github.io/pages/testsmelldetector-architecture.html).
+GUI4tsDetect is a Graphical User Interface (GUI) interface (application) to the test-smell detection tool [tsDetect](https://testsmells.github.io/pages/testsmelldetector-architecture.html).
 
 GUI4tsDetect prompts the user to enter the name of the System Under Test (SUT), a test-file or a folder for analysis. 
 
